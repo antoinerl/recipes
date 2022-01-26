@@ -1,3 +1,15 @@
+Le but du projet est d'avoir 3 pages :
+- liste des recettes
+- page recette
+  + par défaut une recette est pour 4, possibilité de changer le chiffre pour mettre plus ou moins
+  + possibilité d'ajouter en un clic tous les ingrédients de la recette dans la liste de courses
+- liste de courses
+  + possibilité d'ajouter un élément manuellement
+  + possibilité de supprimer un élément
+
+La page en cours, les recettes, la liste de courses sont stockées dans le redux
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
